@@ -1,0 +1,205 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.first_section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+    border-radius: 3px;
+    height: 10vh;
+    background-attachment: fixed;
+    position: sticky;
+    top: 0;
+    /* border: dashed; */
+    border-color:white;
+}
+
+.under1 img {
+    border-radius: 8px;
+
+}
+
+ #nav1 ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    
+}
+
+#nav1 ul li {
+    margin-right: 30px;
+}
+
+#nav1 ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+    
+}
+
+/* navbar different colors */
+#nav1 ul li #home_button :hover {
+    color: #007bff;
+    padding: 0;
+}
+#nav1 ul li #about_cars_button :hover{
+    color: red;
+}  
+#nav1 ul li #work_button :hover{
+    color: yellow;
+}
+
+#nav1 ul li #resume_button :hover{
+    color: purple;
+}
+#nav1 ul li #contact_button :hover{
+    color: orange;
+    
+}
+.second_section{
+    background-color: #000000;
+    /* border: dashed; */
+    border-color:white;
+}
+.under3 .under3-1 a{
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+ .under3-1{
+    text-align: center;
+} 
+ .under_section2{
+    display: flex;
+    margin-top: 50px;
+    margin-right: 50px;
+    justify-content: space-between;
+    
+   
+}
+.third_section{
+    background-color: #000000;
+    border-color:white;
+
+}
+.third_section .under2 .under2-1{
+    display: flex;
+    background-color: #000000;
+    height: 50%;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+    
+}
+
+.third_section .under2 .under2-1 .radius-div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    
+
+    }
+ .third_section .under2 .under2-1 .radius-div2{
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #000000;
+        
+    
+ }
+ .third_section .under2 .under2-1 .radius-div3{
+display: flex;
+  align-items: center;
+     justify-content: center;
+            background-color: #000000;
+            
+            }
+
+            .fourth_section{
+                background-color: #000000;
+            }
+            .fifth_section{
+                background-color: #000000;
+            }
+            .sixth_section{
+                background-color: #000000;
+            }
+
+            .twelfth_section{
+                display: flex;
+                justify-content: space-around;
+               
+            }
+
+            .fourth_section{
+                background-color: #000000;
+            }
+
+            .fifth_section{
+                background-color: #000000;
+            }
+
+            .sixth_section{
+                background-color: #000000;
+            }
+
+            .seventh_section{
+                background-color: #000000;
+            }
+
+            .eighth_section{
+                background-color: #000000;
+            }
+
+            .ninth_section{
+                background-color: #000000;
+            }
+
+            .tenth_section{
+                background-color: #000000;
+            }
+            .eleventh_section{
+                background-color: #000000;
+            }
+
+            .eleventh_section .under1{
+                text-align: center;
+                font-weight: bold;
+                font-family: Verdana, Tahoma, sans-serif;
+                font-size: xx-large;
+                color: #ffffff;
+                background-color: #000000;
+            }
+
+            .eleventh_section .under2 :hover{
+                color: #ffffff;
+
+            }
+            
+            .eleventh_section .under2{
+            color: brown;
+            font-family: Verdana, Tahoma, sans-serif;
+                
+                
+                
+            }
+            
+           
+
+            .under5 .form1{
+            
+            background-color: #000000;
+            padding: 100px;
+            
+            font-family: verdana;
+           
+            }
